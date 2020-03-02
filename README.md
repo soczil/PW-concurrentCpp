@@ -1,2 +1,3 @@
 # PW-concurrentCpp
-Programowanie współbieżne, Uniwersytet Warszawski, Informatyka (III semestr)
+
+Porównywanie podstawowych algorytmów sekwencyjnych wraz z ich współbieżnymi wersjami na podstawie problemu plecakowego, MergeSorta oraz wyszukiwania max.
